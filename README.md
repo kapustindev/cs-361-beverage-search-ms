@@ -53,3 +53,6 @@ async function requestData(option, userInput) {
 
 requestData(1, "Mojito");
 ```
+
+## UML sequence diagram
+![UML diagram](static/uml.png)
