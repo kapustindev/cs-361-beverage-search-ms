@@ -34,7 +34,7 @@ The request message format is:
 - Option 2 - Search by category
 - Option 3 - Search by ingredients
 
-### Example Request ans Response
+### Example Request and Response
 ```javascript
 // Example: Search by name
 const zmq = require("zeromq");
